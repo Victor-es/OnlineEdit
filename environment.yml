@@ -11,7 +11,7 @@ dependencies:
     - thinc
     - tushare
     - seaborn
-    - StatModels
+    - statsmodels
     - Keras
     - Gensim
     - missingno
